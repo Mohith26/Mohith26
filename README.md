@@ -1,6 +1,6 @@
 # Mohith Gajjela
 
-Software Engineer building ML-driven tooling for commercial real estate at **Harbor Capital**, and CS student at **Duke University** (concentration in AI/ML).
+Software Engineer building ML-driven tooling for industrial real estate at **Harbor Capital**, and CS student at **Duke University** (concentration in AI/ML).
 
 ## What I'm working on
 - **Underwriting automation** — LightGBM/Optuna forecasting models, LangGraph multi-agent pipelines for offering-memo extraction, and a pgvector semantic search engine over 18K+ asset records
