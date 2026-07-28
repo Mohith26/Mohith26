@@ -5,7 +5,7 @@ Software Engineer building ML-driven tooling for industrial real estate at **Har
 ## What I'm working on
 - **Underwriting automation** — LightGBM/Optuna forecasting models, LangGraph multi-agent pipelines for offering-memo extraction, and a pgvector semantic search engine over 18K+ asset records
 - **Internal tooling** — a Kubernetes operator (Go, kubebuilder) that turns dropped files into auto-retrying document pipelines
-- **Product @ Duke** (Operations Director) — shipping Pawsitive, a pet-care product MVP
+- **Product @ Duke** (Operations Director)
 
 ## Tech I use often
 `Python` · `TypeScript` · `C` · `SQL` · `React / Next.js` · `FastAPI` · `PyTorch` · `PostgreSQL` · `AWS` · `Docker` · `LangGraph / RAG`
