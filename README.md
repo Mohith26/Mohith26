@@ -8,7 +8,7 @@ CS at Duke (AI/ML concentration). I build AI agents and the systems that keep th
 
 **Before**
 - **Harbor Capital** (SWE intern): multi-agent underwriting pipeline, a Monte Carlo pricing engine, and a fund-admin rebuild in Next.js + Postgres
-- **Polymr** (SWE intern): cut p95 latency 35% on a 2M-record/day Python pipeline
+- **Polymr** (SWE - Contract)
 
 ## Things I've built
 
