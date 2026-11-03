@@ -1,43 +1,34 @@
-# Mohith Gajjela
+# Hi, I'm Mohith
 
-Software Engineer building ML-driven tooling for industrial real estate at **Harbor Capital**, and CS student at **Duke University** (concentration in AI/ML).
+CS at Duke (AI/ML concentration). I build AI agents and the systems that keep them honest: voice agents that won't act without a spoken yes, evals for LLM judges, and tools that trace where a model's behavior comes from.
 
-## What I'm working on
-- **Underwriting automation** — LightGBM/Optuna forecasting models, LangGraph multi-agent pipelines for offering-memo extraction, and a pgvector semantic search engine over 18K+ asset records
-- **Internal tooling** — a Kubernetes operator (Go, kubebuilder) that turns dropped files into auto-retrying document pipelines
-- **Product @ Duke** (Operations Director)
+**Now**
+- Software Engineer, Founder's Office at **Karat**: data pipelines and AI-interview prototypes
+- Undergraduate researcher at **Duke**: conformal prediction for chemo-infusion scheduling (Zavlanos Lab), a Claude + Three.js study builder (MADLAB), and a C rewrite that made a genomics pipeline 20x faster (Dietrich Lab)
 
-## Tech I use often
-`Python` · `TypeScript` · `C` · `SQL` · `React / Next.js` · `FastAPI` · `PyTorch` · `PostgreSQL` · `AWS` · `Docker` · `LangGraph / RAG`
+**Before**
+- **Harbor Capital** (SWE intern): multi-agent underwriting pipeline, a Monte Carlo pricing engine, and a fund-admin rebuild in Next.js + Postgres
+- **Polymr** (SWE intern): cut p95 latency 35% on a 2M-record/day Python pipeline
 
-## A few projects
-| Project | What it does |
+## Things I've built
+
+| Project | What it is |
 |---|---|
-| [Harbor-Capital-Scraper](https://github.com/Mohith26/Harbor-Capital-Scraper) | Streamlit tool that ingests, geocodes, and maps broker comp spreadsheets into a searchable Supabase comp database |
-| [Legends_NPoints](https://github.com/Mohith26/Legends_NPoints) | Full-stack pipeline (FastAPI + React) clustering unstructured social posts into psychographic micro-personas via BERTopic/UMAP/HDBSCAN |
-| [HarborCap_ActivityReportTracker](https://github.com/Mohith26/HarborCap_ActivityReportTracker) | FastAPI + React dashboard for tracking deal/broker activity reports, deployed on Railway |
-| [HarborCap_Bullpen](https://github.com/Mohith26/HarborCap_Bullpen) | Multi-agent CRE intelligence platform — Python agents + dashboard for deal sourcing and market feed |
-| [dumpingdesk](https://github.com/Mohith26/dumpingdesk) | MVP automating U.S. Dept. of Commerce antidumping questionnaire workflows (Next.js + FastAPI) |
-| [PawsitiveProduct](https://github.com/Mohith26/PawsitiveProduct) | Product @ Duke's pet-care MVP (Next.js, Supabase) |
+| [**Ava**](https://portal.mohithgajjela.com/demo) | Full-duplex voice agent for a patient portal. 43 tools, barge-in, and no write without a spoken yes (0 unconfirmed writes in 34 test sessions) |
+| [**Gavel**](https://gavel.mohithgajjela.com) · [code](https://github.com/Mohith26/gavel-live) | Paste a lecture or podcast, get a claim-by-claim evidence check. Judge calibrated on a 1,064-claim benchmark (F1 0.83) |
+| [**Culprit**](https://culprit-production.up.railway.app) | Training-data debugger: traces a fine-tuned model's bad behavior back to the examples that caused it |
+| [**Windlass**](https://github.com/Mohith26/windlass) | Raft implementation tested with a deterministic network simulator |
+| [**Preflight**](https://github.com/Mohith26/preflight) | Runs an npm package's install scripts under instrumentation and diffs what changed between versions |
+| [**Mosaic**](https://mohithgajjela.com/system-05-mosaic) · [code](https://github.com/Mohith26/mosaic) | Pinterest-style visual discovery on real CLIP embeddings and a pin-board graph |
 
-## Contact
-[LinkedIn](https://www.linkedin.com/in/mohith-gajjela/)
+## Open source
 
+<img src="assets/open-source.svg" alt="16 merged pull requests across 12 open-source organizations" width="860">
 
+Merged work includes fixes in [LangChain](https://github.com/langchain-ai/langchain/pull/39101), [Deep Agents](https://github.com/langchain-ai/deepagents/pull/5107), [Cloudflare workers-sdk](https://github.com/cloudflare/workers-sdk/pull/14921), [Vercel Chat SDK](https://github.com/vercel/chat/pull/755), [n8n](https://github.com/n8n-io/n8n/pull/35139), [Qdrant fastembed](https://github.com/qdrant/fastembed/pull/655) and [Strapi](https://github.com/strapi/strapi/pull/27161).
 
+## Tools
 
+Python · TypeScript · C/C++ · SQL · Go · React/Next.js · FastAPI · PostgreSQL · Redis · Cloudflare Workers/D1/Durable Objects · Claude API · Gemini · LangChain · evals
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[mohithgajjela.com](https://mohithgajjela.com) · [LinkedIn](https://www.linkedin.com/in/mohith-gajjela/)
