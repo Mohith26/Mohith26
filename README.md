@@ -3,7 +3,6 @@
 CS at Duke (AI/ML concentration). I build AI agents and the systems that keep them honest: voice agents that won't act without a spoken yes, evals for LLM judges, and tools that trace where a model's behavior comes from.
 
 **Now**
-- Software Engineer, Founder's Office at **Karat**: data pipelines and AI-interview prototypes
 - Undergraduate researcher at **Duke**: conformal prediction for chemo-infusion scheduling (Zavlanos Lab), a Claude + Three.js study builder (MADLAB), and a C rewrite that made a genomics pipeline 20x faster (Dietrich Lab)
 
 **Before**
